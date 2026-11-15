@@ -1,3 +1,29 @@
+# UFO
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+UFO³: Weaving the Digital Agent Galaxy
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+UFO³：编织数字 Agent 星系。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <!-- markdownlint-disable MD033 MD041 -->
 
 <h1 align="center">
